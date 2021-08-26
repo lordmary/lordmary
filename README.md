@@ -1,9 +1,9 @@
 
 ## Hello There! My name is Maria Fernanda and I'm a student of Computer Science
 
- <img align="left" alt="Mary-CSS" height="90" width="80" src="https://user-images.githubusercontent.com/57708477/130838973-baf70203-a938-49f7-88ba-93893839e216.png">
+ <img align="right" alt="Mary-CSS" height="90" width="80" src="https://user-images.githubusercontent.com/57708477/130838973-baf70203-a938-49f7-88ba-93893839e216.png">
 
-- I’m currently working on personal projects and Roboforge Robotics Team
+- I’m currently working on personal projects and RoboForge Robotics Team
 - I’m currently learning Data Structure and Python
 - I'm starting my studies in Data Science
 - How to reach me: maria.gouveia@ufu.br or mariagouveia.comp@gmail.com
