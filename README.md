@@ -20,10 +20,11 @@
  <img align="left" alt="Mary-Ubuntu" height="40" width="40" src="https://user-images.githubusercontent.com/57708477/131008644-5d3e99b4-cc8b-453a-bde8-0f347884d14a.png">
   <img align="left" alt="Mary-English" height="40" width="40" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
   
-
+<br></br>
 
 
    
-</div>
- 
+
 ## Projects:
+      
+</div>
