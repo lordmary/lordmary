@@ -27,4 +27,8 @@
 
 ## Projects:
       
+
+
+![Snake animation](https://github.com/lordmary/lordmary/blob/output/github-contribution-grid-snake.svg)
+
 </div>
