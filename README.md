@@ -13,19 +13,27 @@
  ## Skills:
  
 <div align="left">
+ 
   <a href="https://github.com/lordmary">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordmary&layout=compact&langs_count=7&theme=dracula"/>
+   
 </div>
-
  
  <div style="display: inline_block"><br> 
-  <img align="left" alt="Mary-C" height="40" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
-  <img align="left" alt="Mary-Python" height="40" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="left" alt="Mary-HTML" height="40" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="left" alt="Mary-CSS" height="40" width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
- <img align="left" alt="Mary-Ubuntu" height="40" width="40" src="https://user-images.githubusercontent.com/57708477/131008644-5d3e99b4-cc8b-453a-bde8-0f347884d14a.png">
-  <img align="left" alt="Mary-English" height="40" width="40" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
-
+  <img align="left" alt="Mary-C" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">  
+  <img align="left" alt="Mary-Python" height="40" width="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="left" alt="Mary-HTML" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Mary-CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <br><br>
+  <img align="left" alt="Mary-Ubuntu" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="left" alt="Mary-Git" height="40" width="90" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="left" alt="Mary-Flask" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="left" alt="Mary-English" height="40" width="50" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
+  <br><br>
+  <img align="left" alt="Mary-Vscode" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="left" alt="Mary-Canva" height="40" width="90" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+  
+ 
  <br></br>
 
 ## Projects:
