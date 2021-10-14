@@ -16,7 +16,7 @@
   <a href="https://github.com/lordmary">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordmary&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- <br></br>
+
  
  <div style="display: inline_block"><br> 
   <img align="left" alt="Mary-C" height="40" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
