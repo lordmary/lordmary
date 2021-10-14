@@ -21,7 +21,11 @@
   <img align="left" alt="Mary-English" height="40" width="40" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
   
 <br></br>
-
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordmary&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordmary&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
    
 
