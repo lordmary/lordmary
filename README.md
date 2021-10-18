@@ -14,21 +14,20 @@
 
  
  <div style="display: inline_block"><br> 
-  <img align="left" alt="Mary-C" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">  
-  <img align="left" alt="Mary-Python" height="40" width="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="left" alt="Mary-HTML" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="left" alt="Mary-CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <br><br>
-  <img align="left" alt="Mary-Ubuntu" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="left" alt="Mary-Git" height="40" width="90" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="left" alt="Mary-Flask" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <img align="left" alt="Mary-Vscode" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <br><br>
-  <img align="left" alt="Mary-English" height="40" width="50" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
-  <img align="left" alt="Mary-Canva" height="40" width="90" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+ <p align = "left">
+  <img alt="Mary-C" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">  
+  <img alt="Mary-Python" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img alt="Mary-HTML" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img alt="Mary-CSS" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   
- 
- <br></br>
+  <img alt="Mary-Ubuntu" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+  <img alt="Mary-Git" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img alt="Mary-Flask" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img alt="Mary-Vscode" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  
+  <img  alt="Mary-English" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
+  <img alt="Mary-Canva" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+  </p>
 
 ## Projects:
 
