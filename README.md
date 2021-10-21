@@ -22,11 +22,9 @@
   
   <img alt="Mary-Ubuntu" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img alt="Mary-Git" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img alt="Mary-Flask" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
   <img alt="Mary-Vscode" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   
   <img  alt="Mary-English" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
-  <img alt="Mary-Canva" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
   </p>
 
 ## Projects:
