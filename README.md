@@ -3,7 +3,7 @@
 
  <img align="right" alt="Mary-CSS" height="90" width="80" src="https://user-images.githubusercontent.com/57708477/130838973-baf70203-a938-49f7-88ba-93893839e216.png">
 
-- I’m currently working on personal projects and RoboForge Robotics (UFU Robotics Team)
+- I'm currently working on personal projects and <a href="https://roboforgeufu.github.io/">RoboForge Robotics</a> (UFU Robotics Team)
 - I’m currently learning Data Structure and Python
 - I'm starting my studies in Data Science
 - How to reach me: maria.gouveia@ufu.br or mariagouveia.comp@gmail.com
