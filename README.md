@@ -1,7 +1,8 @@
 
 <h1 align="center">Hello There! My name is Maria Fernanda</h1>
 
-<h2 align="center">I'm a student of Computer Science at UFU, currently training on <a href="https://roboforgeufu.github.io/">RoboForge Robotics</a> (UFU Robotics Team)</h2>
+<h2 align="center">I'm a student of Computer Science at UFU, currently training on <a href="https://roboforgeufu.github.io/">RoboForge Robotics</a> 
+and working on <a href="https://inovacaobrain.com.br/">Brain Innovation</a></h2>
 
 ![ezgif-6-1f8a5c9a5df0](https://user-images.githubusercontent.com/57708477/138342949-17130cae-1df3-47e2-8e65-7c318ce2d0c8.gif)
 ![ezgif-6-23ff7621206a](https://user-images.githubusercontent.com/57708477/138342935-12d92c3a-7cf2-4ecc-91fa-2a627e7c2d18.gif)
