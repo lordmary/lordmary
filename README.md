@@ -12,7 +12,7 @@ and working on <a href="https://inovacaobrain.com.br/">Brain Innovation</a></h2>
 
 - Personal projects, always trying to learn more
 - Learning Data Structure and Python
-- Starting my studies in Data Science
+- Starting my studies in Java and JavaScript
 - How to reach me: maria.gouveia@ufu.br or mariagouveia.comp@gmail.com
 
   
