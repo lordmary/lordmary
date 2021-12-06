@@ -1,7 +1,7 @@
 
-<h1 align="center">Hello There! My name is Maria Fernanda</h1>
+<h2 align="center">Hello There! My name is Maria Fernanda</h1>
 
-<h2 align="center">I'm a student of Computer Science at UFU, currently training on <a href="https://roboforgeufu.github.io/">RoboForge Robotics</a> 
+<h3 align="center">I'm a student of Computer Science at UFU, currently training on <a href="https://roboforgeufu.github.io/">RoboForge Robotics</a> 
 and working on <a href="https://inovacaobrain.com.br/">Brain Innovation</a></h2>
 
 ![ezgif-6-1f8a5c9a5df0](https://user-images.githubusercontent.com/57708477/138342949-17130cae-1df3-47e2-8e65-7c318ce2d0c8.gif)
@@ -13,14 +13,20 @@ and working on <a href="https://inovacaobrain.com.br/">Brain Innovation</a></h2>
 - Personal projects, always trying to learn more
 - Learning Data Structure and Python
 - Starting my studies in Java and JavaScript
-- How to reach me: maria.gouveia@ufu.br or mariagouveia.comp@gmail.com
 
-  
- ## Skills:
+## Find me on:
+
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/maria-fernanda-gouveia-083374218/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:mariagouveia.comp@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+ 
+## Skills:
 
  
  <div style="display: inline_block"><br> 
- <p align = "left">
+ <p align = "center">
   <img alt="Mary-C" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">  
   <img alt="Mary-Python" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img alt="Mary-HTML" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -33,6 +39,9 @@ and working on <a href="https://inovacaobrain.com.br/">Brain Innovation</a></h2>
   <img  alt="Mary-English" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
   </p>
 
+##  My Github Stats:
+  
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordmary&theme=github_dark)
+  
 ## Projects:
-
 </div>
