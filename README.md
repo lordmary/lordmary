@@ -1,7 +1,7 @@
 
-<h2 align="center">Hello There! My name is Maria Fernanda</h1>
+<h1 align="center">Hello There! My name is Maria Fernanda</h1>
 
-<h3 align="center">I'm a student of Computer Science at UFU, currently training on <a href="https://roboforgeufu.github.io/">RoboForge Robotics</a> 
+<h2 align="center">I'm a student of Computer Science at UFU, currently training on <a href="https://roboforgeufu.github.io/">RoboForge Robotics</a> 
 and working on <a href="https://inovacaobrain.com.br/">Brain Innovation</a></h2>
 
 ![ezgif-6-1f8a5c9a5df0](https://user-images.githubusercontent.com/57708477/138342949-17130cae-1df3-47e2-8e65-7c318ce2d0c8.gif)
@@ -11,7 +11,7 @@ and working on <a href="https://inovacaobrain.com.br/">Brain Innovation</a></h2>
 <img align="right" alt="Mary-CSS" height="90" width="80" src="https://user-images.githubusercontent.com/57708477/130838973-baf70203-a938-49f7-88ba-93893839e216.png">
 
 - Personal projects, always trying to learn more
-- Learning Data Structure and Python
+- Learning Data Structure II and Python
 - Starting my studies in Java and JavaScript
 
 ## Find me on:
