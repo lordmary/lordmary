@@ -5,7 +5,7 @@
 
  ### Hello There! My name is Maria Fernanda
 
-### I'm a student of Computer Science at UFU, currently training on <a href="https://roboforgeufu.github.io/">RoboForge Robotics</a> and working on <a href="https://inovacaobrain.com.br/">Brain Innovation</a></h2>
+### I'm a student of Computer Science at UFU, currently working on <a href="https://inovacaobrain.com.br/">Brain Innovation</a> at the core of research and development </h2>
 
 ### Also I'm working on:
 <img align="right" alt="Mary-CSS" height="90" width="80" src="https://user-images.githubusercontent.com/57708477/130838973-baf70203-a938-49f7-88ba-93893839e216.png">
