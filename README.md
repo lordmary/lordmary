@@ -7,12 +7,12 @@
 
 ### I'm a student of Computer Science at UFU, currently working on <a href="https://inovacaobrain.com.br/">Brain Innovation</a> at the core of research and development </h2>
 
-### Also I'm working on:
+### I'm working on:
 <img align="right" alt="Mary-CSS" height="90" width="80" src="https://user-images.githubusercontent.com/57708477/130838973-baf70203-a938-49f7-88ba-93893839e216.png">
 
-- Personal projects, always trying to learn more
-- Starting my studies in Java and JavaScript
-- Learning more about Media Wiki and Docker 
+- Computer networks and Internet protocols focusing on SIP
+- Cloud virtualization and Amazon Web Services
+- Asterisk to develop a VOIP network
 
 ### Find me on:
 
@@ -32,10 +32,11 @@
   <img alt="Mary-HTML" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img alt="Mary-CSS" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   
-  <img alt="Mary-Ubuntu" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+  <img alt="Mary-Linux" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/198693268-78e5331e-778f-42ed-9333-0d2fea94e99a.png">
+ <img alt="Mary-Aws" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/198695216-f7ab6ac0-d135-4001-9ab0-ff081af10a27.png">
   <img alt="Mary-Git" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img alt="Mary-Vscode" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  
+
   <img  alt="Mary-English" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
   </p>
 
