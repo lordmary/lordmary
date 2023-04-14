@@ -2,7 +2,8 @@
  
  ![21357564f443a36f575ddcf0b37f8072](https://user-images.githubusercontent.com/57708477/147961794-07e71617-7252-4976-b520-2e8ed0f143c8.png)
 
-![image](https://user-images.githubusercontent.com/57708477/232052329-badf6ff1-303b-4eae-9710-ef6f1a4b6f48.png)
+![kaneki-ken-smile](https://user-images.githubusercontent.com/57708477/232054218-a26006e6-63f1-4910-a181-426923ecf7f5.gif)
+
 
 
  ### Hello There! My name is Maria Fernanda
