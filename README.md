@@ -8,8 +8,7 @@
 
  ### Hello There! My name is Maria Fernanda
 
-### I'm a student of Computer Science at UFU, 
-<!-- currently working on <a href="link">Empresa</a> -->
+### I'm a student of Computer Science at UFU, currently working on <a href="[link](https://edgeuno.com/)"> Edgeuno </a>
 </h2>
 
 ### I'm working on:
