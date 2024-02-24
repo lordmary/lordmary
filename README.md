@@ -8,7 +8,7 @@
 
  ### Hello There! My name is Maria Fernanda
 
-### I'm a student of Computer Science at UFU, currently working on <a href="https://edgeuno.com/"> Edgeuno </a> as Network Support 
+### I'm a student of Computer Science at UFU, currently working on <a href="https://edgeuno.com/"> Edgeuno </a> as Network Analyst
 </h2>
 
 ### I'm working on:
