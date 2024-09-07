@@ -29,17 +29,19 @@
  
  <div style="display: inline_block"><br> 
  <p align = "center">
-  <img alt="Mary-C" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">  
-  <img alt="Mary-Python" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img alt="Mary-HTML" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img alt="Mary-CSS" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  
-  <img alt="Mary-Linux" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/198693268-78e5331e-778f-42ed-9333-0d2fea94e99a.png">
- <img alt="Mary-Aws" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/198695216-f7ab6ac0-d135-4001-9ab0-ff081af10a27.png">
-  <img alt="Mary-Git" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img alt="Mary-Vscode" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-
-  <img  alt="Mary-English" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
+  <img alt="C" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">  
+  <img alt="Python" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img alt="HTML" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img  alt="Java" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+   <img  alt="DB" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img  alt="Postgresql" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img alt="Linux" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/198693268-78e5331e-778f-42ed-9333-0d2fea94e99a.png">
+ <img alt="Aws" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/198695216-f7ab6ac0-d135-4001-9ab0-ff081af10a27.png">
+  <img alt="Git" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img alt="Vscode" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img  alt="Grafana" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain-wordmark.svg">
+  <img  alt="English" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
   </p>
 
 ###  My Github Stats:
