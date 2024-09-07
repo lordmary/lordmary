@@ -31,9 +31,9 @@
  <p align = "center">
   <img alt="C" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">  
   <img alt="Python" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img  alt="Java" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img alt="HTML" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img  alt="Java" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
    <img  alt="DB" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
   <img  alt="Postgresql" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img alt="Linux" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/198693268-78e5331e-778f-42ed-9333-0d2fea94e99a.png">
