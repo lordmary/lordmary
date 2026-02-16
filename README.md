@@ -44,9 +44,6 @@
   <img  alt="English" height="35" width="35" src="https://user-images.githubusercontent.com/57708477/130839211-2107f09f-56b6-4e56-9d41-5533930befed.png">
   </p>
 
-###  My Github Stats:
-  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordmary&theme=github_dark)
   
 ### Projects:
 </div>
