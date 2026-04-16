@@ -13,8 +13,6 @@
 ### I'm working on:
 <img align="right" alt="Mary-CSS" height="90" width="80" src="https://user-images.githubusercontent.com/57708477/130838973-baf70203-a938-49f7-88ba-93893839e216.png">
 
-- Computer networks and cybersecurity
-
 ### Find me on:
 
 
